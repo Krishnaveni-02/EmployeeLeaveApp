@@ -1,0 +1,17 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
+
+.al {
+  text-align: center;
+  font-family: Lucida Handwriting;
+  font-size: 40px;  
+  color: crimson;
+}
